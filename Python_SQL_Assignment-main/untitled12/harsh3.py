@@ -5,6 +5,8 @@ import openpyxl
 import os
 import pandas as pd
 
+''' class not commented like
+class for creating table in postgres database using data from xlsx'''
 
 class Departments:
     def create_tables(self):
