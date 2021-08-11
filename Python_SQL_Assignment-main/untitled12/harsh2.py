@@ -3,6 +3,9 @@ import psycopg2
 from openpyxl.workbook import Workbook
 import pandas as pd
 
+'''class not commented like
+class for extracting the information regarding total compensation of employee with required fields'''
+
 class Total_compensation:
     def compensation(self):
         # to connect to the PostgreSQL database server in the Python program using the psycopg database adapter.

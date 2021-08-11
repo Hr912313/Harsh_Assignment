@@ -4,7 +4,8 @@ import psycopg2
 from openpyxl.workbook import Workbook
 import pandas as pd
 
-
+'''class not commented like
+class for extracting information regarding total compensation of different departments'''
 class Employees:
 
     def emp(self):
